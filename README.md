@@ -133,7 +133,8 @@ Resultant 3x2 Matrix (A * B):
 ---
 
 ## 🧑‍💻 Author
-**Name:** Jayesh (replace with your full name for submission)  
+**Name:** Jayesh Sharma 
+**Roll No:-** 23115045
 **Project Title:** Custom Instruction Compiler for Matrix Multiplication
 
 ---
