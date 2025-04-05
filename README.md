@@ -1,4 +1,4 @@
-#  Custom Instruction Compiler: Matrix Multiplication (3x2 × 2x2)
+# 🧮 Custom Instruction Compiler: Matrix Multiplication (3x2 × 2x2)
 
 This project is a simple compiler that processes a **custom instruction** for matrix multiplication. Using Flex (Lexical Analyzer) and C, it interprets the instruction, takes matrix input from the user at runtime, performs multiplication of a 3x2 matrix with a 2x2 matrix, and outputs the result as a 3x2 matrix.
 
@@ -94,6 +94,9 @@ Resultant 3x2 Matrix (A * B):
    89.00   100.00 
 ```
 
+![Screenshot](./assets/screenshot.png)
+
+
 ---
 
 ## 📘 Command Reference Table
@@ -122,6 +125,7 @@ Resultant 3x2 Matrix (A * B):
   - `Executable_Build/` — for ready-to-run executable
   - `Source_Code/` — for code-level inspection and manual compilation
 - Place this `README.md` in both folders for reference
+- Include a screenshot of the output named `output_screenshot.png`
 
 ---
 
@@ -133,7 +137,7 @@ Resultant 3x2 Matrix (A * B):
 ---
 
 ## 🧑‍💻 Author
-**Name:** Jayesh 23115045  
+**Name:** Jayesh (replace with your full name for submission)  
 **Project Title:** Custom Instruction Compiler for Matrix Multiplication
 
 ---
